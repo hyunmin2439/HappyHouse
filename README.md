@@ -29,7 +29,7 @@
 ### Front-End
 - Vue.js, BootStrap5, Kakao Map API, Socket.io
 
-### Back-End]
+### Back-End
 - Node.js, SpringBoot
 
 ### Database
