@@ -26,14 +26,17 @@
 <br>
 
 ## 기술 스택
-[ Front-End ]
-Vue.js, BootStrap5, Kakao Map API, Socket.io, 공공데이터
+### Front-End
+- Vue.js, BootStrap5, Kakao Map API, Socket.io
 
-[ Back-End]
-Node.js, SpringBoot
+### Back-End]
+- Node.js, SpringBoot
 
-[ Database ]
-MySQL, MyBatis
+### Database
+- MySQL, MyBatis
+
+### Etc.
+- 공공데이터
 
 <br>
 
