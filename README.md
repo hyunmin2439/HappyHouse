@@ -109,7 +109,7 @@
 
 ## 회원정보
 ![1](./screenshot/Profile.jpg)
-- 유저 이미지를 클릭, View Profile 클릭하여 회원 정보창으로 넘어올 있음
+- 유저 이미지를 클릭, View Profile 클릭하여 회원 정보창으로 넘어올 수 있음
 
 - 왼쪽 상단 config 클릭 시 유저 정보 수정화면으로 넘어감
 
